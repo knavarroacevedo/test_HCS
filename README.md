@@ -13,7 +13,7 @@ List
 1. Alejandra
 2. Orellana
 
-..*This is another point
+  - This is another point
 
 This is (google)(https://www.google.com)
 
